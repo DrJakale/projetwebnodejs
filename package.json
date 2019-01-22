@@ -1,8 +1,8 @@
 {
   "name": "apinodejs",
   "version": "1.0.0",
-  "description": "REST API node.js projet web",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
